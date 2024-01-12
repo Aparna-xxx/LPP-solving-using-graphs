@@ -1,1 +1,1 @@
-# LLP-solving-using-graphs
+# LPP-solving-using-graphs
